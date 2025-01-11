@@ -2,7 +2,7 @@
 ; SEE THE DOCUMENTATION FOR DETAILS ON CREATING INNO SETUP SCRIPT FILES!
 
 #define MyAppName "Movie Renamer"
-#define MyAppVersion "1.1.2.4"
+#define MyAppVersion "1.1.3.5"
 #define MyAppPublisher "Tim Bacon"
 #define MyAppExeName "movie_renamer.exe"
 
@@ -27,7 +27,7 @@ DisableProgramGroupPage=yes
 ; Remove the following line to run in administrative install mode (install for all users.)
 PrivilegesRequired=lowest
 OutputDir=D:\Users\Tim\Projects\movie_renamer\installers
-OutputBaseFilename=MovieRenamerSetup_v1.1.2.4
+OutputBaseFilename=MovieRenamerSetup_v1.1.3.5
 Compression=lzma
 SolidCompression=yes
 WizardStyle=modern
